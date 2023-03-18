@@ -31,11 +31,11 @@ class YOUR_NAME:
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Lucaspxmr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspxmr&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Lucaspxmr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspxmr&show_icons=true&theme=dracula&line_height=27" alt="**Lucaspxmr** github stats"/>
 </a>
 
