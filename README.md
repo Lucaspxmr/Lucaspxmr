@@ -8,10 +8,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```kotlin
 class YOUR_NAME:
-    name = "YOUR FULL NAME"
-    acknowledgements = "AREA OF EXPERTISE"
-    primary_skillset = "SOME SKILLS"
-    languages = ["C++", "Python", "JavaScript", "PHP"]
+    name = "Lucas Paes"
+    acknowledgements = "Coding, Pentesting, Bot Development and Front End Development"
+    primary_skillset = "I like to make Hacking / Pentest Oriented tools and Bots"
+    languages = ["C++", "Python", "JavaScript", "PHP", "CSS", "HTML"]
 
 ```
 
@@ -39,11 +39,11 @@ class YOUR_NAME:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspxmr&show_icons=true&theme=dracula&line_height=27" alt="**Lucaspxmr** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[website]: 
+[twitter]: 
+[youtube]: https://www.youtube.com/@OneSec-49
+[instagram]: https://www.instagram.com/lucasp.xmr/
+[linkedin]: 
 <br>
 
 #### Rede Sociais!
